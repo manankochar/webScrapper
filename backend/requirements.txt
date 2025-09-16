@@ -5,3 +5,5 @@ beautifulsoup4==4.12.3
 yt-dlp==2025.1.26
 SQLAlchemy==2.0.29
 python-multipart==0.0.6
+pymongo==4.15.0
+minio==7.2.0
